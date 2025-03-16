@@ -1,6 +1,6 @@
 # Approximate Adder with Hybrid Error Reduction
 
-This repository contains the implementation and analysis of various approximate adder designs with a focus on our proposed HERLOA (Hybrid Error Reduction Lower-part OR Adder) architecture.
+This repository contains the implementation and analysis of various approximate adder designs with a focus on the proposed HERLOA (Hybrid Error Reduction Lower-part OR Adder) architecture.
 
 ## Introduction
 
