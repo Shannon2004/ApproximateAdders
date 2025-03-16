@@ -1,0 +1,727 @@
+$date
+	Sun Nov 17 15:33:04 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module ECPETA_tb $end
+$var wire 16 ! S [15:0] $end
+$var reg 16 " X [15:0] $end
+$var reg 16 # Y [15:0] $end
+$scope module uut $end
+$var wire 16 $ A [15:0] $end
+$var wire 16 % B [15:0] $end
+$var wire 1 & cout $end
+$var wire 16 ' sum [15:0] $end
+$var wire 1 ( n_2 $end
+$var wire 1 ) n_1 $end
+$var wire 1 * n_0 $end
+$var wire 1 + Cin $end
+$scope module RCA1 $end
+$var wire 1 & Co $end
+$var wire 12 , X [11:0] $end
+$var wire 12 - Y [11:0] $end
+$var wire 1 . n_0 $end
+$var wire 11 / w [10:0] $end
+$var wire 12 0 S [11:0] $end
+$var wire 1 + Ci $end
+$scope module adder_stage[0].genblk1.FA $end
+$var wire 1 1 X $end
+$var wire 1 2 Y $end
+$var wire 1 3 S $end
+$var wire 1 4 Co $end
+$var wire 1 + Ci $end
+$scope module g66__2398 $end
+$var wire 1 1 A $end
+$var wire 1 2 B $end
+$var wire 1 4 CO $end
+$var wire 1 3 S $end
+$var wire 1 5 \n$1 $end
+$var wire 1 6 \n$2 $end
+$var wire 1 7 \n$3 $end
+$var wire 1 + CI $end
+$upscope $end
+$upscope $end
+$scope module adder_stage[10].genblk1.FA $end
+$var wire 1 8 Ci $end
+$var wire 1 9 X $end
+$var wire 1 : Y $end
+$var wire 1 ; S $end
+$var wire 1 < Co $end
+$scope module g66__1705 $end
+$var wire 1 9 A $end
+$var wire 1 : B $end
+$var wire 1 8 CI $end
+$var wire 1 < CO $end
+$var wire 1 ; S $end
+$var wire 1 = \n$1 $end
+$var wire 1 > \n$2 $end
+$var wire 1 ? \n$3 $end
+$upscope $end
+$upscope $end
+$scope module adder_stage[11].genblk1.FA $end
+$var wire 1 @ Ci $end
+$var wire 1 . Co $end
+$var wire 1 A X $end
+$var wire 1 B Y $end
+$var wire 1 C n_0 $end
+$var wire 1 D S $end
+$scope module g37__5122 $end
+$var wire 1 @ B $end
+$var wire 1 D Y $end
+$var wire 1 C A $end
+$upscope $end
+$scope module g38__8246 $end
+$var wire 1 B A $end
+$var wire 1 A B $end
+$var wire 1 C Y $end
+$upscope $end
+$upscope $end
+$scope module adder_stage[1].genblk1.FA $end
+$var wire 1 E Ci $end
+$var wire 1 F X $end
+$var wire 1 G Y $end
+$var wire 1 H S $end
+$var wire 1 I Co $end
+$scope module g66__5107 $end
+$var wire 1 F A $end
+$var wire 1 G B $end
+$var wire 1 E CI $end
+$var wire 1 I CO $end
+$var wire 1 H S $end
+$var wire 1 J \n$1 $end
+$var wire 1 K \n$2 $end
+$var wire 1 L \n$3 $end
+$upscope $end
+$upscope $end
+$scope module adder_stage[2].genblk1.FA $end
+$var wire 1 M Ci $end
+$var wire 1 N X $end
+$var wire 1 O Y $end
+$var wire 1 P S $end
+$var wire 1 Q Co $end
+$scope module g66__6260 $end
+$var wire 1 N A $end
+$var wire 1 O B $end
+$var wire 1 M CI $end
+$var wire 1 Q CO $end
+$var wire 1 P S $end
+$var wire 1 R \n$1 $end
+$var wire 1 S \n$2 $end
+$var wire 1 T \n$3 $end
+$upscope $end
+$upscope $end
+$scope module adder_stage[3].genblk1.FA $end
+$var wire 1 U Ci $end
+$var wire 1 V X $end
+$var wire 1 W Y $end
+$var wire 1 X S $end
+$var wire 1 Y Co $end
+$scope module g66__4319 $end
+$var wire 1 V A $end
+$var wire 1 W B $end
+$var wire 1 U CI $end
+$var wire 1 Y CO $end
+$var wire 1 X S $end
+$var wire 1 Z \n$1 $end
+$var wire 1 [ \n$2 $end
+$var wire 1 \ \n$3 $end
+$upscope $end
+$upscope $end
+$scope module adder_stage[4].genblk1.FA $end
+$var wire 1 ] Ci $end
+$var wire 1 ^ X $end
+$var wire 1 _ Y $end
+$var wire 1 ` S $end
+$var wire 1 a Co $end
+$scope module g66__8428 $end
+$var wire 1 ^ A $end
+$var wire 1 _ B $end
+$var wire 1 ] CI $end
+$var wire 1 a CO $end
+$var wire 1 ` S $end
+$var wire 1 b \n$1 $end
+$var wire 1 c \n$2 $end
+$var wire 1 d \n$3 $end
+$upscope $end
+$upscope $end
+$scope module adder_stage[5].genblk1.FA $end
+$var wire 1 e Ci $end
+$var wire 1 f X $end
+$var wire 1 g Y $end
+$var wire 1 h S $end
+$var wire 1 i Co $end
+$scope module g66__5526 $end
+$var wire 1 f A $end
+$var wire 1 g B $end
+$var wire 1 e CI $end
+$var wire 1 i CO $end
+$var wire 1 h S $end
+$var wire 1 j \n$1 $end
+$var wire 1 k \n$2 $end
+$var wire 1 l \n$3 $end
+$upscope $end
+$upscope $end
+$scope module adder_stage[6].genblk1.FA $end
+$var wire 1 m Ci $end
+$var wire 1 n X $end
+$var wire 1 o Y $end
+$var wire 1 p S $end
+$var wire 1 q Co $end
+$scope module g66__6783 $end
+$var wire 1 n A $end
+$var wire 1 o B $end
+$var wire 1 m CI $end
+$var wire 1 q CO $end
+$var wire 1 p S $end
+$var wire 1 r \n$1 $end
+$var wire 1 s \n$2 $end
+$var wire 1 t \n$3 $end
+$upscope $end
+$upscope $end
+$scope module adder_stage[7].genblk1.FA $end
+$var wire 1 u Ci $end
+$var wire 1 v X $end
+$var wire 1 w Y $end
+$var wire 1 x S $end
+$var wire 1 y Co $end
+$scope module g66__3680 $end
+$var wire 1 v A $end
+$var wire 1 w B $end
+$var wire 1 u CI $end
+$var wire 1 y CO $end
+$var wire 1 x S $end
+$var wire 1 z \n$1 $end
+$var wire 1 { \n$2 $end
+$var wire 1 | \n$3 $end
+$upscope $end
+$upscope $end
+$scope module adder_stage[8].genblk1.FA $end
+$var wire 1 } Ci $end
+$var wire 1 ~ X $end
+$var wire 1 !" Y $end
+$var wire 1 "" S $end
+$var wire 1 #" Co $end
+$scope module g66__1617 $end
+$var wire 1 ~ A $end
+$var wire 1 !" B $end
+$var wire 1 } CI $end
+$var wire 1 #" CO $end
+$var wire 1 "" S $end
+$var wire 1 $" \n$1 $end
+$var wire 1 %" \n$2 $end
+$var wire 1 &" \n$3 $end
+$upscope $end
+$upscope $end
+$scope module adder_stage[9].genblk1.FA $end
+$var wire 1 '" Ci $end
+$var wire 1 (" X $end
+$var wire 1 )" Y $end
+$var wire 1 *" S $end
+$var wire 1 +" Co $end
+$scope module g66__2802 $end
+$var wire 1 (" A $end
+$var wire 1 )" B $end
+$var wire 1 '" CI $end
+$var wire 1 +" CO $end
+$var wire 1 *" S $end
+$var wire 1 ," \n$1 $end
+$var wire 1 -" \n$2 $end
+$var wire 1 ." \n$3 $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module g100__6131 $end
+$var wire 1 /" A0N $end
+$var wire 1 0" A1N $end
+$var wire 1 1" Y $end
+$var wire 1 2" \n$1 $end
+$var wire 1 3" \n$2 $end
+$var wire 1 4" \n$3 $end
+$var wire 1 + B0 $end
+$upscope $end
+$scope module g101__1881 $end
+$var wire 1 5" Y $end
+$var wire 1 ) B $end
+$var wire 1 * A $end
+$upscope $end
+$scope module g102__5115 $end
+$var wire 1 6" A0 $end
+$var wire 1 7" A1 $end
+$var wire 1 8" B0 $end
+$var wire 1 9" C0 $end
+$var wire 1 ( Y $end
+$var wire 1 :" \n$1 $end
+$upscope $end
+$scope module g103__7482 $end
+$var wire 1 ;" A0N $end
+$var wire 1 <" A1N $end
+$var wire 1 + Y $end
+$var wire 1 =" \n$1 $end
+$var wire 1 >" \n$2 $end
+$var wire 1 ?" \n$3 $end
+$var wire 1 ) B0 $end
+$upscope $end
+$scope module g104__4733 $end
+$var wire 1 @" A $end
+$var wire 1 A" B $end
+$var wire 1 ) Y $end
+$upscope $end
+$scope module g105__6161 $end
+$var wire 1 B" A $end
+$var wire 1 C" B $end
+$var wire 1 D" Y $end
+$upscope $end
+$scope module g106__9315 $end
+$var wire 1 E" A $end
+$var wire 1 F" B $end
+$var wire 1 * Y $end
+$upscope $end
+$scope module g99__7098 $end
+$var wire 1 ) A $end
+$var wire 1 ( B $end
+$var wire 1 G" Y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0G"
+0F"
+0E"
+0D"
+0C"
+0B"
+0A"
+0@"
+1?"
+1>"
+1="
+0<"
+0;"
+0:"
+09"
+08"
+07"
+06"
+05"
+14"
+13"
+12"
+01"
+00"
+0/"
+0."
+0-"
+0,"
+0+"
+0*"
+0)"
+0("
+0'"
+0&"
+0%"
+0$"
+0#"
+0""
+0!"
+0~
+0}
+0|
+0{
+0z
+0y
+0x
+0w
+0v
+0u
+0t
+0s
+0r
+0q
+0p
+0o
+0n
+0m
+0l
+0k
+0j
+0i
+0h
+0g
+0f
+0e
+0d
+0c
+0b
+0a
+0`
+0_
+0^
+0]
+0\
+0[
+0Z
+0Y
+0X
+0W
+0V
+0U
+0T
+0S
+0R
+0Q
+0P
+0O
+0N
+0M
+0L
+0K
+0J
+0I
+0H
+0G
+0F
+0E
+0D
+1C
+0B
+0A
+0@
+0?
+0>
+0=
+0<
+0;
+0:
+09
+08
+07
+06
+05
+04
+03
+02
+01
+b0 0
+b0 /
+z.
+b0 -
+b0 ,
+0+
+1*
+1)
+1(
+b0 '
+z&
+b0 %
+b0 $
+b0 #
+b0 "
+b0 !
+$end
+#10000
+b1 !
+b1 '
+1G"
+0(
+18"
+19"
+b1 #
+b1 %
+b1 "
+b1 $
+#20000
+1K
+1L
+1H
+1S
+1T
+1P
+1[
+1\
+1X
+1`
+1E
+1M
+1U
+1]
+14
+1I
+1Q
+b1111 /
+1Y
+16
+15
+17
+b11111 0
+13
+1J
+1R
+1Z
+02"
+0="
+1+
+15"
+12
+1G
+1O
+1W
+03"
+0>"
+11
+1F
+1N
+1V
+04"
+1:"
+0?"
+0)
+b111110111 !
+b111110111 '
+1D"
+0*
+b1111 -
+1/"
+16"
+1;"
+1@"
+1B"
+1E"
+b1111 ,
+10"
+17"
+1<"
+1A"
+1C"
+1F"
+b11111111 #
+b11111111 %
+b11111111 "
+b11111111 $
+#30000
+1k
+1l
+1h
+1s
+1t
+1p
+1{
+1|
+1x
+1%"
+1&"
+1""
+1-"
+1."
+1*"
+1>
+1?
+1;
+b1111111111110111 !
+b1111111111110111 '
+b111111111111 0
+1D
+1e
+1m
+1u
+1}
+1'"
+18
+1@
+1a
+1i
+1q
+1y
+1#"
+1+"
+b11111111111 /
+1<
+1c
+1b
+1d
+1j
+1r
+1z
+1$"
+1,"
+1=
+1_
+1g
+1o
+1w
+1!"
+1)"
+1:
+1B
+1^
+1f
+1n
+1v
+1~
+1("
+19
+1A
+b111111111111 -
+b111111111111 ,
+b1111111111111111 #
+b1111111111111111 %
+b1111111111111111 "
+b1111111111111111 $
+#40000
+0@
+0<
+0?
+08
+0+"
+0-"
+0'"
+0#"
+0&"
+0}
+0y
+0{
+0u
+0q
+0t
+0m
+0i
+0k
+0e
+0a
+0d
+0]
+0Y
+0[
+0U
+0Q
+0T
+0M
+0I
+0K
+0E
+b0 /
+04
+11"
+07
+1D
+05
+06
+0R
+0S
+1P
+0b
+0c
+1`
+0r
+0s
+1p
+0$"
+0%"
+1""
+0=
+0>
+1;
+0+
+0J
+0L
+1H
+0Z
+0\
+1X
+0j
+0l
+1h
+0z
+0|
+1x
+0,"
+0."
+b1111111111111111 !
+b1111111111111111 '
+b111111111111 0
+1*"
+0C
+1="
+02
+0O
+0_
+0o
+0!"
+0:
+1)
+0F
+0V
+0f
+0v
+0("
+0A
+14"
+0:"
+1?"
+b101010101010 -
+08"
+0@"
+0B"
+b10101010101 ,
+00"
+07"
+0<"
+0F"
+b1010101010101010 #
+b1010101010101010 %
+b101010101010101 "
+b101010101010101 $
+#50000
+01"
+0H
+0X
+0h
+0x
+0*"
+12"
+05"
+03
+0P
+0p
+0""
+b100000010000 0
+0;
+0G
+0W
+1_
+0g
+0w
+0)"
+0B
+13"
+1>"
+1*
+01
+0N
+0^
+0n
+0~
+09
+1A
+b1000000100000001 !
+b1000000100000001 '
+0D"
+b10000 -
+0/"
+06"
+18"
+0;"
+0E"
+b100000000000 ,
+0A"
+0C"
+b100000001 #
+b100000001 %
+b1000000000000001 "
+b1000000000000001 $
+#60000
