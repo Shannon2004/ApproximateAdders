@@ -1,0 +1,523 @@
+$date
+	Mon Nov 18 22:09:03 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module CLA_tb $end
+$var wire 16 ! sum [15:0] $end
+$var wire 1 " cout $end
+$var reg 16 # A [15:0] $end
+$var reg 16 $ B [15:0] $end
+$var reg 1 % cin $end
+$scope module DUT $end
+$var wire 16 & A [15:0] $end
+$var wire 16 ' B [15:0] $end
+$var wire 1 % cin $end
+$var wire 16 ( sum [15:0] $end
+$var wire 1 ) n_8 $end
+$var wire 1 * n_6 $end
+$var wire 1 + n_4 $end
+$var wire 1 , n_28 $end
+$var wire 1 - n_26 $end
+$var wire 1 . n_24 $end
+$var wire 1 / n_22 $end
+$var wire 1 0 n_20 $end
+$var wire 1 1 n_2 $end
+$var wire 1 2 n_18 $end
+$var wire 1 3 n_16 $end
+$var wire 1 4 n_14 $end
+$var wire 1 5 n_12 $end
+$var wire 1 6 n_10 $end
+$var wire 1 7 n_0 $end
+$var wire 1 " cout $end
+$scope module g1125__2398 $end
+$var wire 1 8 A $end
+$var wire 1 9 B $end
+$var wire 1 " CO $end
+$var wire 1 : S $end
+$var wire 1 ; \n$1 $end
+$var wire 1 < \n$2 $end
+$var wire 1 = \n$3 $end
+$var wire 1 , CI $end
+$upscope $end
+$scope module g1126__5107 $end
+$var wire 1 > A $end
+$var wire 1 ? B $end
+$var wire 1 , CO $end
+$var wire 1 @ S $end
+$var wire 1 A \n$1 $end
+$var wire 1 B \n$2 $end
+$var wire 1 C \n$3 $end
+$var wire 1 - CI $end
+$upscope $end
+$scope module g1127__6260 $end
+$var wire 1 D A $end
+$var wire 1 E B $end
+$var wire 1 - CO $end
+$var wire 1 F S $end
+$var wire 1 G \n$1 $end
+$var wire 1 H \n$2 $end
+$var wire 1 I \n$3 $end
+$var wire 1 . CI $end
+$upscope $end
+$scope module g1128__4319 $end
+$var wire 1 J A $end
+$var wire 1 K B $end
+$var wire 1 . CO $end
+$var wire 1 L S $end
+$var wire 1 M \n$1 $end
+$var wire 1 N \n$2 $end
+$var wire 1 O \n$3 $end
+$var wire 1 / CI $end
+$upscope $end
+$scope module g1129__8428 $end
+$var wire 1 P A $end
+$var wire 1 Q B $end
+$var wire 1 / CO $end
+$var wire 1 R S $end
+$var wire 1 S \n$1 $end
+$var wire 1 T \n$2 $end
+$var wire 1 U \n$3 $end
+$var wire 1 0 CI $end
+$upscope $end
+$scope module g1130__5526 $end
+$var wire 1 V A $end
+$var wire 1 W B $end
+$var wire 1 0 CO $end
+$var wire 1 X S $end
+$var wire 1 Y \n$1 $end
+$var wire 1 Z \n$2 $end
+$var wire 1 [ \n$3 $end
+$var wire 1 2 CI $end
+$upscope $end
+$scope module g1131__6783 $end
+$var wire 1 \ A $end
+$var wire 1 ] B $end
+$var wire 1 2 CO $end
+$var wire 1 ^ S $end
+$var wire 1 _ \n$1 $end
+$var wire 1 ` \n$2 $end
+$var wire 1 a \n$3 $end
+$var wire 1 3 CI $end
+$upscope $end
+$scope module g1132__3680 $end
+$var wire 1 b A $end
+$var wire 1 c B $end
+$var wire 1 3 CO $end
+$var wire 1 d S $end
+$var wire 1 e \n$1 $end
+$var wire 1 f \n$2 $end
+$var wire 1 g \n$3 $end
+$var wire 1 4 CI $end
+$upscope $end
+$scope module g1133__1617 $end
+$var wire 1 h A $end
+$var wire 1 i B $end
+$var wire 1 4 CO $end
+$var wire 1 j S $end
+$var wire 1 k \n$1 $end
+$var wire 1 l \n$2 $end
+$var wire 1 m \n$3 $end
+$var wire 1 5 CI $end
+$upscope $end
+$scope module g1134__2802 $end
+$var wire 1 n A $end
+$var wire 1 o B $end
+$var wire 1 5 CO $end
+$var wire 1 p S $end
+$var wire 1 q \n$1 $end
+$var wire 1 r \n$2 $end
+$var wire 1 s \n$3 $end
+$var wire 1 6 CI $end
+$upscope $end
+$scope module g1135__1705 $end
+$var wire 1 t A $end
+$var wire 1 u B $end
+$var wire 1 6 CO $end
+$var wire 1 v S $end
+$var wire 1 w \n$1 $end
+$var wire 1 x \n$2 $end
+$var wire 1 y \n$3 $end
+$var wire 1 ) CI $end
+$upscope $end
+$scope module g1136__5122 $end
+$var wire 1 z A $end
+$var wire 1 { B $end
+$var wire 1 ) CO $end
+$var wire 1 | S $end
+$var wire 1 } \n$1 $end
+$var wire 1 ~ \n$2 $end
+$var wire 1 !" \n$3 $end
+$var wire 1 * CI $end
+$upscope $end
+$scope module g1137__8246 $end
+$var wire 1 "" A $end
+$var wire 1 #" B $end
+$var wire 1 * CO $end
+$var wire 1 $" S $end
+$var wire 1 %" \n$1 $end
+$var wire 1 &" \n$2 $end
+$var wire 1 '" \n$3 $end
+$var wire 1 + CI $end
+$upscope $end
+$scope module g1138__7098 $end
+$var wire 1 (" A $end
+$var wire 1 )" B $end
+$var wire 1 + CO $end
+$var wire 1 *" S $end
+$var wire 1 +" \n$1 $end
+$var wire 1 ," \n$2 $end
+$var wire 1 -" \n$3 $end
+$var wire 1 1 CI $end
+$upscope $end
+$scope module g1139__6131 $end
+$var wire 1 ." A $end
+$var wire 1 /" B $end
+$var wire 1 1 CO $end
+$var wire 1 0" S $end
+$var wire 1 1" \n$1 $end
+$var wire 1 2" \n$2 $end
+$var wire 1 3" \n$3 $end
+$var wire 1 7 CI $end
+$upscope $end
+$scope module g1140__1881 $end
+$var wire 1 4" A $end
+$var wire 1 5" B $end
+$var wire 1 % CI $end
+$var wire 1 7 CO $end
+$var wire 1 6" S $end
+$var wire 1 7" \n$1 $end
+$var wire 1 8" \n$2 $end
+$var wire 1 9" \n$3 $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+09"
+08"
+07"
+06"
+05"
+04"
+03"
+02"
+01"
+00"
+0/"
+0."
+0-"
+0,"
+0+"
+0*"
+0)"
+0("
+0'"
+0&"
+0%"
+0$"
+0#"
+0""
+0!"
+0~
+0}
+0|
+0{
+0z
+0y
+0x
+0w
+0v
+0u
+0t
+0s
+0r
+0q
+0p
+0o
+0n
+0m
+0l
+0k
+0j
+0i
+0h
+0g
+0f
+0e
+0d
+0c
+0b
+0a
+0`
+0_
+0^
+0]
+0\
+0[
+0Z
+0Y
+0X
+0W
+0V
+0U
+0T
+0S
+0R
+0Q
+0P
+0O
+0N
+0M
+0L
+0K
+0J
+0I
+0H
+0G
+0F
+0E
+0D
+0C
+0B
+0A
+0@
+0?
+0>
+0=
+0<
+0;
+0:
+09
+08
+07
+06
+05
+04
+03
+02
+01
+00
+0/
+0.
+0-
+0,
+0+
+0*
+0)
+b0 (
+b0 '
+b0 &
+0%
+b0 $
+b0 #
+0"
+b0 !
+$end
+#20000
+1j
+1p
+1s
+1r
+15
+16
+1*"
+1q
+1w
+1|
+1$"
+b11011101 !
+b11011101 (
+16"
+1o
+1u
+1)"
+1n
+1t
+1z
+1""
+1%
+b1100100 $
+b1100100 '
+b1111000 #
+b1111000 &
+#40000
+0j
+0p
+05
+06
+0r
+10"
+0q
+0s
+0w
+b10111 !
+b10111 (
+0$"
+0o
+0u
+0)"
+1/"
+15"
+0n
+0t
+0""
+1("
+0%
+b11 $
+b11 '
+b10100 #
+b10100 &
+#60000
+1p
+16
+1j
+00"
+1d
+1w
+0|
+b111001101 !
+b111001101 (
+1$"
+1i
+1u
+0/"
+05"
+1b
+1t
+0z
+1""
+1%
+b10100000 $
+b10100000 '
+b100101100 #
+b100101100 &
+#80000
+1R
+0p
+10
+06
+0j
+1Y
+0d
+0w
+10"
+b100000001110 !
+b100000001110 (
+06"
+1W
+0i
+0u
+1V
+0b
+0t
+1."
+0%
+b10000000000 $
+b10000000000 '
+b10000001110 #
+b10000001110 &
+#100000
+0"
+0=
+0,
+0C
+0-
+0I
+0.
+0O
+00
+0/
+0Y
+1X
+16"
+1:
+1@
+1F
+1L
+0U
+1R
+1^
+1d
+1j
+1p
+1v
+b1111111111111111 !
+b1111111111111111 (
+1|
+0W
+15"
+18
+1>
+1D
+1J
+1P
+1\
+1b
+1h
+1n
+1t
+1z
+b1 $
+b1 '
+b1111111111111110 #
+b1111111111111110 &
+#120000
+1"
+0:
+1=
+1,
+0@
+1C
+1-
+0F
+1I
+1.
+0L
+1O
+1/
+0R
+1U
+10
+0X
+1[
+12
+0^
+1a
+13
+0d
+1g
+14
+0j
+1m
+15
+0p
+1s
+16
+0v
+1y
+1)
+0|
+1!"
+1*
+0$"
+1'"
+1+
+0*"
+1-"
+11
+00"
+13"
+17
+17"
+b0 !
+b0 (
+06"
+14"
+b1111111111111111 #
+b1111111111111111 &
